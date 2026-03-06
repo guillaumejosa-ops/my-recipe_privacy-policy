@@ -71,9 +71,10 @@ Nous ne collectons pas sciemment de données personnelles d'enfants.
 
 9. CONTACT
 Pour toute question concernant cette politique de confidentialité :
-📧 guillaume.josa@gmail.fr
+📧 guillaume.josa@gmail.com
 
 10. MODIFICATIONS
 Nous nous réservons le droit de modifier cette politique à tout moment. 
 Les utilisateurs seront informés de tout changement significatif 
+
 via l'application.
